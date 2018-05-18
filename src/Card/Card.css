@@ -1,0 +1,20 @@
+.Card {
+  text-align: center;
+  flex-grow: 1;
+  flex-basis: 0;
+  background-color: white;
+  border: 1px solid goldenrod;
+  padding: 20px;
+  margin: 5px;
+}
+
+.Card-img {
+  height: 40px;
+}
+.Card-title {
+  font-size: 1em;
+}
+
+.Card-intro {
+  font-size: 20px;;
+}

@@ -1,0 +1,19 @@
+
+.table-container{
+    margin: 0 auto;
+    width: 89.1%;
+    border: 1px solid goldenrod;
+
+}
+.table-container>h3{
+    text-align: center;
+}
+.forecast-container{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+.forecast-item{
+    flex-grow: 1;
+    flex-basis: 0;
+}
